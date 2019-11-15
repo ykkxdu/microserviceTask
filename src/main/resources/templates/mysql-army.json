@@ -1,0 +1,104 @@
+[
+{
+    "id": 1,
+    "armyName": "陆军",
+    "armyType": "陆",
+    "armyIntroduct": "陆军是在陆地上作战的军种，是军队主要的组成部分",
+    "equips": [
+      {
+        "id": 1,
+        "equipName": "手枪",
+        "equipType": "QSZ92",
+        "equipIntroduct": "QSZ92式9mm手枪，采用了15发双排双进大容量金属弹匣，套筒座为工程塑料注塑而成，大大降低了枪身自重，同时在套筒座上还设计了导轨，以便安装战术灯和激光指示器",
+        "user": null
+      },
+      {
+        "id": 2,
+        "equipName": "步枪",
+        "equipType": "QBZ95",
+        "equipIntroduct": "QBZ95式5.8mm步枪，它的设计及加工运用了CAD/CAPP/CAM工程设计加工系统，枪身和弹匣由工程塑料和铝合金制成",
+        "user": null
+      },
+      {
+        "id": 3,
+        "equipName": "狙击步枪",
+        "equipType": "KBU88",
+        "equipIntroduct": "KBU88式5.8mm狙击步枪，是我国独立研制的第一支狙击步枪，具有优良的战术性能，射击精度好，质量轻，动作可靠，寿命长，瞄具功能齐全，远距离威力大，后坐力小",
+        "user": null
+      },
+      {
+        "id": 4,
+        "equipName": "机枪",
+        "equipType": "QJY88",
+        "equipIntroduct": "QJY88式5.8mm通用机枪全枪重：3.95千克，有限射程：600米，自动方式： 导气式，发射方式：单发、半自动，供弹具容量：>100发",
+        "user": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "armyName": "海军",
+    "armyType": "海",
+    "armyIntroduct": "海军，是以舰艇部队为主体，在海洋上作战的军种",
+    "equips": [
+      {
+        "id": 2,
+        "equipName": "步枪",
+        "equipType": "QBZ95",
+        "equipIntroduct": "QBZ95式5.8mm步枪，它的设计及加工运用了CAD/CAPP/CAM工程设计加工系统，枪身和弹匣由工程塑料和铝合金制成",
+        "user": null
+      },
+      {
+        "id": 3,
+        "equipName": "狙击步枪",
+        "equipType": "KBU88",
+        "equipIntroduct": "KBU88式5.8mm狙击步枪，是我国独立研制的第一支狙击步枪，具有优良的战术性能，射击精度好，质量轻，动作可靠，寿命长，瞄具功能齐全，远距离威力大，后坐力小",
+        "user": null
+      },
+      {
+        "id": 4,
+        "equipName": "机枪",
+        "equipType": "QJY88",
+        "equipIntroduct": "QJY88式5.8mm通用机枪全枪重：3.95千克，有限射程：600米，自动方式： 导气式，发射方式：单发、半自动，供弹具容量：>100发",
+        "user": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "armyName": "空军",
+    "armyType": "空",
+    "armyIntroduct": "空军，是主要进行空中作战的军种",
+    "equips": [
+      {
+        "id": 1,
+        "equipName": "手枪",
+        "equipType": "QSZ92",
+        "equipIntroduct": "QSZ92式9mm手枪，采用了15发双排双进大容量金属弹匣，套筒座为工程塑料注塑而成，大大降低了枪身自重，同时在套筒座上还设计了导轨，以便安装战术灯和激光指示器",
+        "user": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "armyName": "第二炮兵",
+    "armyType": "炮",
+    "armyIntroduct": "中国人民解放军第二炮兵（简称二炮），是以地地战略导弹为主要装备、担负核反击战略作战任务的军种",
+    "equips": [
+      {
+        "id": 2,
+        "equipName": "步枪",
+        "equipType": "QBZ95",
+        "equipIntroduct": "QBZ95式5.8mm步枪，它的设计及加工运用了CAD/CAPP/CAM工程设计加工系统，枪身和弹匣由工程塑料和铝合金制成",
+        "user": null
+      },
+      {
+        "id": 3,
+        "equipName": "狙击步枪",
+        "equipType": "KBU88",
+        "equipIntroduct": "KBU88式5.8mm狙击步枪，是我国独立研制的第一支狙击步枪，具有优良的战术性能，射击精度好，质量轻，动作可靠，寿命长，瞄具功能齐全，远距离威力大，后坐力小",
+        "user": null
+      }
+    ]
+  }
+]
